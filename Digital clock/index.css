@@ -1,0 +1,14 @@
+body {
+    background-color: #211f1f;
+}
+
+.Clock {
+    font-size: 3rem;
+    position: absolute;
+    color:lime;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}

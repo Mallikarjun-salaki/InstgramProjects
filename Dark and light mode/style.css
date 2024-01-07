@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+
+}
+
+#but{
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+}
+.dark{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
